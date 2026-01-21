@@ -24,7 +24,7 @@ The system classifies news as real or fake based on textual content.
 The application is deployed using Streamlit Cloud.
 
 Deployment Link:
-
+https://fake-news-detection-ay8qfjub8epvx5stkappjea.streamlit.app/
 
 ## GitHub Repository
 https://github.com/SnehalPatil26/fake-news-detection
